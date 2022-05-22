@@ -1,0 +1,23 @@
+{
+  "name": "elhande_zineb_p3_042022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css",
+    "prefix": "postcss ./css/style.css --use autoprefixer -d ./css/prefixed/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinebella/elhande_zineb_p3_042022.git"
+  },
+  "author": "elhande zineb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinebella/elhande_zineb_p3_042022/issues"
+  },
+  "homepage": "https://github.com/zinebella/elhande_zineb_p3_042022#readme",
+  "dependencies": {
+    "sass": "^1.50.1"
+  }
+}
