@@ -849,6 +849,8 @@
     {
       display: flex;
       flex-direction: row;
+      ustify-content: space-between;
+      width: 95%;
     }
 
     #entrees
@@ -880,7 +882,7 @@
 
     .menu-carte-plat
     {
-      width: 40%;
+      width: 100%;
       margin-left: 0;
       margin-right: 4%;
     }
@@ -913,8 +915,8 @@
     .plat-nom
     {
        margin-left: 10px;
-       white-space: nowrap; /* gerer les "..." */
-       overflow: hidden; /* gerer les "..." */
+       white-space: nowrap; 
+       overflow: hidden; 
     }
 
     .menu-carte h3 
@@ -925,8 +927,8 @@
     .menu-carte p 
     {
       font-size: 14px;
-      overflow: hidden; /* gerer les "..." */
-      text-overflow: ellipsis; /* gerer les "..." */
+      overflow: hidden; 
+      text-overflow: ellipsis; 
     }
 
     .plat-prix
@@ -934,7 +936,7 @@
       display: flex;
       align-items: flex-end;
       font-weight: bold;  
-      padding-bottom: 10px;
+      padding-bottom: 12px;
       transform: translateX(0);
       transition: 0.4s; 
       margin-left: auto;
