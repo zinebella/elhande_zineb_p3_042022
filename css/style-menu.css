@@ -556,8 +556,8 @@
     .plat-nom
     {
       margin-left: 10px;
-      white-space: nowrap; /* gerer les "..." */
-      overflow: hidden; /* gerer les "..." */
+      white-space: nowrap; 
+      overflow: hidden; 
     }
 
     .menu-carte h3 
@@ -568,8 +568,8 @@
     .menu-carte p 
     {
       font-size: 14px;
-      overflow: hidden; /* gerer les "..." */
-      text-overflow: ellipsis; /* gerer les "..." */
+      overflow: hidden; 
+      text-overflow: ellipsis; 
     }
 
     .plat-prix
