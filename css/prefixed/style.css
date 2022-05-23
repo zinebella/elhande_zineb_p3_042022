@@ -1,0 +1,11 @@
+body .bloc {
+  background: red;
+}
+body .bloc__isSelected {
+  color: green;
+}
+body .row {
+  background: orange;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3Nhc3MvbWFpbi5zY3NzIiwiLi4vc3R5bGUuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNJO0VBQ0ksZUFBQTtBQ0FSO0FEQ1E7RUFDSSxZQUFBO0FDQ1o7QURFSTtFQUNJLGtCQUFBO0FDQVIiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
